@@ -10,5 +10,5 @@ We've taken our popular Adafruit PN532 breakout board and turned it into a shiel
 
 All text above must be included in any redistribution
 
-Designed by Limor Fried/Ladyada for Adafruit Industries.
+Designed by Limor Fried/Ladyada & Kevin Townsend for Adafruit Industries.
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution
